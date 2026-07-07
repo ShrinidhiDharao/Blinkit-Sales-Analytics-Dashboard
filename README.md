@@ -49,4 +49,4 @@ Supports inventory and sales strategy decisions.
 Enables comparison across outlet sizes and locations.
 Provides an interactive, user-friendly reporting experience for business analysis.
 📸 Dashboard Preview
-https://github.com/ShrinidhiDharao/Blinkit-Sales-Analytics-Dashboard/blob/main/Snapshot%20Of%20The%20Dashboard.png
+Snapshot Of The Dashboard.png
