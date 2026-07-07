@@ -50,4 +50,4 @@ Enables comparison across outlet sizes and locations.
 Provides an interactive, user-friendly reporting experience for business analysis.
 
 📸 Dashboard Preview
-![Blinkit Sales Dashboard](Snapshot%20Of%20The%20Dashboard.png)
+![Blinkit Sales Analytics Dashboard](dashboard-snapshot.png)
