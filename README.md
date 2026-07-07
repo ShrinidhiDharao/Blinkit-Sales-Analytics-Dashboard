@@ -48,5 +48,6 @@ Identifies high-performing outlets and product categories.
 Supports inventory and sales strategy decisions.
 Enables comparison across outlet sizes and locations.
 Provides an interactive, user-friendly reporting experience for business analysis.
+
 📸 Dashboard Preview
-Snapshot Of The Dashboard.png
+![Blinkit Sales Dashboard](Snapshot%20Of%20The%20Dashboard.png)
